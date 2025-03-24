@@ -26,6 +26,7 @@
     "electron-updater": "^6.3.9"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@electron-toolkit/eslint-config-prettier": "^3.0.0",
     "@electron-toolkit/eslint-config-ts": "^3.0.0",
     "@electron-toolkit/tsconfig": "^1.0.1",
